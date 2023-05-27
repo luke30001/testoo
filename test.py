@@ -9,6 +9,6 @@ def home():
   
   
 if __name__ == "__main__":
-    website_url = 'vibhu.gfg:5000'
+    website_url = 'testoo.onrender.com'
     app.config['SERVER_NAME'] = website_url
     app.run()
